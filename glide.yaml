@@ -1,0 +1,4 @@
+package: github.com/kwo/twterminator
+import:
+- package: github.com/ChimeraCoder/anaconda
+- package: gopkg.in/yaml.v2
